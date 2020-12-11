@@ -1,2 +1,2 @@
-# jack-world
+# PYTHON
 My first repository on Github
